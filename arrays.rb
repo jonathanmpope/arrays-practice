@@ -12,4 +12,4 @@ money.shift(2)
 
 scared_of_fenrir = [true, true, false, true]
 # the unshift method will add the element (false) to the beginning of the array
-scared_of_fenrir.unshift(true)
+scared_of_fenrir.unshift(false)
